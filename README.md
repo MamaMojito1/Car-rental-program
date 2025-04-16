@@ -16,3 +16,5 @@ users.txt
 trips.txt
 
 These files should be in your executable directory
+
+If they are not there create them manually
