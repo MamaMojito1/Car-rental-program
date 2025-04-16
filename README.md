@@ -3,7 +3,7 @@
 # Build
 run -:
 
-cd build
+cd build \n
 cmake -S ..
 
 # Run
